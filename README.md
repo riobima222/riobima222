@@ -38,11 +38,21 @@ Mari terhubung dan diskusikan bagaimana kita bisa bekerja sama!
 ## 📫 Hubungi Saya
 
 <p>
-  <a href="mailto:email@domain.com" target="_blank"><img src="https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://wa.me/nomor_anda" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-  <a href="https://instagram.com/username" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://linkedin.com/in/namaanda" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/username" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="mailto:email@domain.com" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=flat&logo=gmail&logoColor=white" alt="Email" style="border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+  <a href="https://wa.me/nomor_anda" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp" style="border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+  <a href="https://instagram.com/username" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" style="border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+  <a href="https://linkedin.com/in/namaanda" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+  <a href="https://twitter.com/username" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" style="border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
+  </a>
 </p>
 
 ## 🎉 Mari Terhubung!
