@@ -1,6 +1,18 @@
 # 👋 Halo, saya Patrio Bimasuci!
 
-Saya seorang **Web Developer** berusia 22 tahun dengan pengalaman sekitar 2 tahun dalam membangun aplikasi web yang menarik dan responsif. Saya sangat bersemangat tentang teknologi dan selalu mencari cara untuk belajar dan berkembang.
+Saya seorang **Web Developer** yang suka menciptakan aplikasi web yang menarik dan responsif. Dengan pengalaman sekitar 2 tahun, saya selalu bersemangat untuk belajar dan mengembangkan keterampilan saya di dunia teknologi.
+
+## 📢 Status
+
+🌟 **Saat ini saya sedang mencari pekerjaan!** 🌟  
+Saya ingin bergabung dengan tim yang inovatif dan berkontribusi dalam proyek yang menarik. Jika Anda memiliki informasi atau peluang, jangan ragu untuk menghubungi saya!
+
+💼 **Saya terbuka untuk:**
+- Posisi sebagai Web Developer
+- Proyek freelance
+- Kolaborasi dalam proyek yang menarik
+
+Mari terhubung dan diskusikan bagaimana kita bisa bekerja sama!
 
 ## 🚀 Teknologi yang Saya Kuasai
 
@@ -25,10 +37,14 @@ Saya seorang **Web Developer** berusia 22 tahun dengan pengalaman sekitar 2 tahu
 
 ## 📫 Hubungi Saya
 
-- Email: [email@domain.com](mailto:email@domain.com)
-- LinkedIn: [linkedin.com/in/namaanda](https://linkedin.com/in/namaanda)
-- Twitter: [@username](https://twitter.com/username)
+<p>
+  <a href="mailto:email@domain.com" target="_blank"><img src="https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://wa.me/nomor_anda" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="https://instagram.com/username" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://linkedin.com/in/namaanda" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/username" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" /></a>
+</p>
 
 ## 🎉 Mari Terhubung!
 
-Saya selalu terbuka untuk kolaborasi dan diskusi tentang teknologi terbaru. Jangan ragu untuk menghubungi saya!
+Saya selalu terbuka untuk kolaborasi dan diskusi tentang teknologi dan pekerjaan. silahkan dan jangan ragu untuk menhubungi saya !
