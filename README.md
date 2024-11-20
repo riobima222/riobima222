@@ -35,21 +35,6 @@ Mari terhubung dan diskusikan bagaimana kita bisa bekerja sama!
 - [Nama Proyek 2](link-ke-proyek-2) - Deskripsi singkat tentang proyek ini.
 - [Nama Proyek 3](link-ke-proyek-3) - Deskripsi singkat tentang proyek ini.
 
-<style>
-  .icon {
-    border-radius: 8px;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
-    transition: transform 0.2s, box-shadow 0.2s;
-    display: inline-block;
-    margin: 5px;
-  }
-
-  .icon:hover {
-    transform: scale(1.1);
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
-  }
-</style>
-
 ## 📫 Hubungi Saya
 
 <div align="center">
