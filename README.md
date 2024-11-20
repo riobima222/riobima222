@@ -35,23 +35,38 @@ Mari terhubung dan diskusikan bagaimana kita bisa bekerja sama!
 - [Nama Proyek 2](link-ke-proyek-2) - Deskripsi singkat tentang proyek ini.
 - [Nama Proyek 3](link-ke-proyek-3) - Deskripsi singkat tentang proyek ini.
 
+<style>
+  .icon {
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    transition: transform 0.2s, box-shadow 0.2s;
+    display: inline-block;
+    margin: 5px;
+  }
+
+  .icon:hover {
+    transform: scale(1.1);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+  }
+</style>
+
 ## 📫 Hubungi Saya
 
 <p>
-  <a href="mailto:email@domain.com" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=flat&logo=gmail&logoColor=white" alt="Email" style="border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
+  <a href="mailto:email@domain.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=flat&logo=gmail&logoColor=white" alt="Email" class="icon" />
   </a>
-  <a href="https://wa.me/nomor_anda" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp" style="border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
+  <a href="https://wa.me/nomor_anda" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp" class="icon" />
   </a>
-  <a href="https://instagram.com/username" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" style="border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
+  <a href="https://instagram.com/username" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" class="icon" />
   </a>
-  <a href="https://linkedin.com/in/namaanda" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
+  <a href="https://linkedin.com/in/namaanda" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" class="icon" />
   </a>
-  <a href="https://twitter.com/username" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" style="border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
+  <a href="https://twitter.com/username" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" class="icon" />
   </a>
 </p>
 
