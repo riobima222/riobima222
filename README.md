@@ -54,19 +54,19 @@ Mari terhubung dan diskusikan bagaimana kita bisa bekerja sama!
 
 <div align="center">
   <a href="mailto:email@domain.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-FF5722?style=flat&logo=gmail&logoColor=white" alt="Email" width="100" />
-  </a><br>
+    <img src="https://img.shields.io/badge/-D32F2F?style=flat-square&logo=gmail&logoColor=white" alt="Email" width="80" />
+  </a>
   <a href="https://wa.me/nomor_anda" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp" width="100" />
-  </a><br>
+    <img src="https://img.shields.io/badge/-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" width="80" />
+  </a>
   <a href="https://instagram.com/username" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-FF4081?style=flat&logo=instagram&logoColor=white" alt="Instagram" width="100" />
-  </a><br>
+    <img src="https://img.shields.io/badge/-E1306C?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" width="80" />
+  </a>
   <a href="https://linkedin.com/in/namaanda" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" width="100" />
-  </a><br>
+    <img src="https://img.shields.io/badge/-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" width="80" />
+  </a>
   <a href="https://twitter.com/username" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" width="100" />
+    <img src="https://img.shields.io/badge/-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" width="80" />
   </a>
 </div>
 
