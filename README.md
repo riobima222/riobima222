@@ -1,10 +1,10 @@
 # 👋 Halo, saya Patrio Bimasuci!
 
-Saya seorang **Web Developer** yang suka menciptakan aplikasi web yang menarik dan responsif. Dengan pengalaman sekitar 2 tahun, saya selalu bersemangat untuk belajar dan mengembangkan keterampilan saya di dunia teknologi.
+Saya seorang **Web Developer**, gemar membuat aplikasi web yang menarik dan responsif. pengalaman sekitar 2,5 tahun, dan selalu bersemangat untuk belajar dan mengembangkan keterampilan saya di dunia teknologi.
 
 ## 📢 Status
 
-🌟 **Saat ini saya sedang mencari pekerjaan!** 🌟  
+🌟 **mencari pekerjaan!** 🌟  
 Saya ingin bergabung dengan tim yang inovatif dan berkontribusi dalam proyek yang menarik. Jika Anda memiliki informasi atau peluang, jangan ragu untuk menghubungi saya!
 
 💼 **Saya terbuka untuk:**
@@ -34,7 +34,7 @@ Mari terhubung dan diskusikan bagaimana kita bisa bekerja sama!
 
 </div>
 
-## 🌱 Proyek Terbaru
+## 🌱 Latest Projects
 
 - [Nama Proyek 1](link-ke-proyek-1) - Deskripsi singkat tentang proyek ini.
 - [Nama Proyek 2](link-ke-proyek-2) - Deskripsi singkat tentang proyek ini.
@@ -43,20 +43,17 @@ Mari terhubung dan diskusikan bagaimana kita bisa bekerja sama!
 <div align="center">
   <h2>🌐 Connect with Me</h2>
   <p>
-    <a href="mailto:email@domain.com" target="_blank" style="text-decoration:none;">
+    <a href="mailto:patriobimasuci354@gmail.com" target="_blank" style="text-decoration:none;">
       <img src="https://img.shields.io/badge/Gmail-D32F2F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://wa.me/nomor_anda" target="_blank" style="text-decoration:none;">
+    <a href="https://wa.me/085745068643" target="_blank" style="text-decoration:none;">
       <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
     </a>
-    <a href="https://instagram.com/username" target="_blank" style="text-decoration:none;">
+    <a href="https://instagram.com/riobima222" target="_blank" style="text-decoration:none;">
       <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
-    <a href="https://linkedin.com/in/namaanda" target="_blank" style="text-decoration:none;">
+    <a href="https://linkedin.com/in/patrio-bimasuci-1115aa339" target="_blank" style="text-decoration:none;">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://twitter.com/username" target="_blank" style="text-decoration:none;">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
     </a>
   </p>
 </div>
