@@ -35,7 +35,7 @@ Mari terhubung dan diskusikan bagaimana kita bisa bekerja sama!
 - [Nama Proyek 2](link-ke-proyek-2) - Deskripsi singkat tentang proyek ini.
 - [Nama Proyek 3](link-ke-proyek-3) - Deskripsi singkat tentang proyek ini.
 
-## 📫 Hubungi Saya
+<h2 align="center">📫 Hubungi Saya</h2>
 
 <div align="center">
   <a href="mailto:email@domain.com" target="_blank">
