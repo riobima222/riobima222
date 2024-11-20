@@ -14,7 +14,7 @@ Saya ingin bergabung dengan tim yang inovatif dan berkontribusi dalam proyek yan
 
 Mari terhubung dan diskusikan bagaimana kita bisa bekerja sama!
 
-<h2>🚀 Teknologi</h2>
+<h2 align="center">🚀 Teknologi</h2>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" />
@@ -29,8 +29,8 @@ Mari terhubung dan diskusikan bagaimana kita bisa bekerja sama!
   <img src="https://github.com/riobima222/assets-images/blob/main/zod.png" alt="Zod" width="50" height="50" />
   <img src="https://github.com/riobima222/assets-images/blob/main/next-auth.png" alt="NextAuth" width="50" height="50" style="filter: invert(1);" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" alt="Prisma" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50" />
+  <img src="https://github.com/riobima222/assets-images/blob/main/mysql.png" alt="MySQL" width="50" height="50" />
+<img src="https://github.com/riobima222/assets-images/blob/main/postgresql.png" alt="PostgreSQL" width="50" height="50" />
 
 </div>
 
