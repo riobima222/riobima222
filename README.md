@@ -35,24 +35,25 @@ Mari terhubung dan diskusikan bagaimana kita bisa bekerja sama!
 - [Nama Proyek 2](link-ke-proyek-2) - Deskripsi singkat tentang proyek ini.
 - [Nama Proyek 3](link-ke-proyek-3) - Deskripsi singkat tentang proyek ini.
 
-<h2 align="center">📫 Hubungi Saya</h2>
-
 <div align="center">
-  <a href="mailto:email@domain.com" target="_blank">
-    <img src="https://img.shields.io/badge/-D32F2F?style=flat-square&logo=gmail&logoColor=white" alt="Email" width="80" />
-  </a>
-  <a href="https://wa.me/nomor_anda" target="_blank">
-    <img src="https://img.shields.io/badge/-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" width="80" />
-  </a>
-  <a href="https://instagram.com/username" target="_blank">
-    <img src="https://img.shields.io/badge/-E1306C?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" width="80" />
-  </a>
-  <a href="https://linkedin.com/in/namaanda" target="_blank">
-    <img src="https://img.shields.io/badge/-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" width="80" />
-  </a>
-  <a href="https://twitter.com/username" target="_blank">
-    <img src="https://img.shields.io/badge/-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" width="80" />
-  </a>
+  <h2>🌐 Connect with Me</h2>
+  <p>
+    <a href="mailto:email@domain.com" target="_blank" style="text-decoration:none;">
+      <img src="https://img.shields.io/badge/Gmail-D32F2F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://wa.me/nomor_anda" target="_blank" style="text-decoration:none;">
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+    </a>
+    <a href="https://instagram.com/username" target="_blank" style="text-decoration:none;">
+      <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+    <a href="https://linkedin.com/in/namaanda" target="_blank" style="text-decoration:none;">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://twitter.com/username" target="_blank" style="text-decoration:none;">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    </a>
+  </p>
 </div>
 
 ## 🎉 Mari Terhubung!
