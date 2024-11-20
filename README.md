@@ -24,7 +24,7 @@ Mari terhubung dan diskusikan bagaimana kita bisa bekerja sama!
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" height="50" style="filter: invert(1);" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" alt="Supabase" width="50" height="50" />
-  <img src="https://next-auth.js.org/static/img/logo/logo-sm.png" alt="NextAuth" width="50" height="50" style="filter: invert(1);" />
+  <img src="https://raw.githubusercontent.com/nextauthjs/next-auth/master/www/static/logo/logo-sm.svg" alt="NextAuth" width="50" height="50" style="filter: invert(1);" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" alt="Prisma" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Zod" width="50" height="50" />
 </div>
