@@ -39,8 +39,6 @@ Mari terhubung dan diskusikan bagaimana kita bisa bekerja sama!
 
 ## 🌟 Highlight Projects  
 
----
-
 ### 📝 **Sigma TodoList**  
 Aplikasi TodoList sederhana namun lengkap. Pengguna dapat:  
 - Mendaftar dan login untuk akses personal.  
