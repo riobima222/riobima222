@@ -20,17 +20,17 @@ Mari terhubung dan diskusikan bagaimana kita bisa bekerja sama!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Zod" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typscript" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50" />
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" height="50" style="filter: invert(1);" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" alt="Supabase" width="50" height="50" />
-  <img src="https://github.com/riobima222/assets-images/blob/main/zod.png" alt="Zod" width="50" height="50" />
-  <img src="https://github.com/riobima222/assets-images/blob/main/next-auth.png" alt="NextAuth" width="50" height="50" style="filter: invert(1);" />
+  <img src="https://i.postimg.cc/qvR3mxH2/zod.png" alt="Zod" width="50" height="50" />
+  <img src="https://i.postimg.cc/Nj5K8GR4/next-auth.png" alt="NextAuth" width="50" height="50" style="filter: invert(1);" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" alt="Prisma" width="50" height="50" />
-  <img src="https://github.com/riobima222/assets-images/blob/main/mysql.png" alt="MySQL" width="50" height="50" />
-<img src="https://github.com/riobima222/assets-images/blob/main/postgresql.png" alt="PostgreSQL" width="50" height="50" />
+  <img src="https://i.postimg.cc/wMwBJnvZ/mysql.png" alt="MySQL" width="50" height="50" />
+<img src="https://i.postimg.cc/Wbf34RxJ/postgresql.png" alt="PostgreSQL" width="50" height="50" />
 
 </div>
 
@@ -51,7 +51,7 @@ Aplikasi TodoList sederhana namun lengkap. Pengguna dapat:
 🔗 **Demo:** [Lihat Aplikasi](https://sigma-todolist.vercel.app)  
 🔗 **Repo:** [GitHub](https://github.com/riobima222/sigma-todo-list)
 
-<img src="https://github.com/riobima222/assets-images/blob/main/Sigma-TodoList.jpg" height="300" width="550"/>
+<img src="https://i.postimg.cc/wjsbCg9x/Sigma-Todo-List.jpg" style="max-width: 550; height: auto;" alt="Sigma Todo List" />
 
 ---
 
@@ -64,8 +64,7 @@ Aplikasi chatting real-time modern dengan fitur:
 🔗 **Demo:** [Lihat Aplikasi](https://erchat-chatting.vercel.app/login)  
 🔗 **Repo:** [GitHub](https://github.com/riobima222/chatting-app)
 
-<img src="https://github.com/riobima222/assets-images/blob/main/Erchat.jpg" height="300" width="550"/>
-
+<img src="https://i.postimg.cc/wMTGZNjn/Erchat.jpg" style="max-width: 550; height: auto;" alt="Erchat-chatting-app" />
 
 
 > Jangan ragu untuk mengeksplorasi proyek saya lainnya di [Profil GitHub](https://github.com/riobima222).  
