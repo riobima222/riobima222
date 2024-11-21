@@ -34,11 +34,56 @@ Mari terhubung dan diskusikan bagaimana kita bisa bekerja sama!
 
 </div>
 
-## 🌱 Latest Projects
 
-- [Nama Proyek 1](link-ke-proyek-1) - Deskripsi singkat tentang proyek ini.
-- [Nama Proyek 2](link-ke-proyek-2) - Deskripsi singkat tentang proyek ini.
-- [Nama Proyek 3](link-ke-proyek-3) - Deskripsi singkat tentang proyek ini.
+
+## 🌟 Latest Projects  
+
+Berikut adalah beberapa proyek terbaru saya:  
+
+---
+
+### 📝 **Sigma TodoList**  
+Aplikasi TodoList sederhana namun lengkap. Pengguna dapat:  
+- Mendaftar dan login untuk akses personal.  
+- Menambahkan task dan menandai task yang sudah selesai.  
+- Task yang selesai akan dipindahkan ke daftar ceklist.  
+
+🔗 **Demo:** [Lihat Aplikasi](https://link-ke-project-sigma-todolist.com)  
+🔗 **Repo:** [GitHub](https://github.com/username/sigma-todolist)  
+
+![Sigma TodoList Screenshot](https://via.placeholder.com/600x400?text=Screenshot+SigmaTodoList)  
+
+---
+
+### 🗨️ **ERChat - Chatting App**  
+Aplikasi chatting real-time modern dengan fitur:  
+- Login dan register menggunakan Firebase Authentication.  
+- Pesan dikirim dan diterima secara instan tanpa reload.  
+- Desain responsif dengan Tailwind CSS.  
+
+🔗 **Demo:** [Lihat Aplikasi](https://link-ke-project-erchat.com)  
+🔗 **Repo:** [GitHub](https://github.com/username/erchat-chatting-app)  
+
+![ERChat Screenshot](https://via.placeholder.com/600x400?text=Screenshot+ERChat)  
+
+---
+
+### 📈 **Proyek Analitik Data**  
+Aplikasi berbasis web untuk memvisualisasikan data dalam grafik yang interaktif.  
+- Mendukung upload file CSV dan pemrosesan data secara real-time.  
+- Diagram interaktif dengan berbagai tipe grafik.  
+- Dibangun menggunakan Next.js dan Chart.js.  
+
+🔗 **Demo:** [Lihat Aplikasi](https://link-ke-project-analytics.com)  
+🔗 **Repo:** [GitHub](https://github.com/username/analytics-project)  
+
+![Data Analytics Screenshot](https://via.placeholder.com/600x400?text=Screenshot+Data+Analytics)  
+
+---
+
+> Jangan ragu untuk mengeksplorasi proyek saya lainnya di [Profil GitHub](https://github.com/username).  
+
+
 
 <div align="center">
   <h2>🌐 Connect with Me</h2>
