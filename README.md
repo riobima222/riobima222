@@ -37,30 +37,39 @@ Mari terhubung dan diskusikan bagaimana kita bisa bekerja sama!
 ---
 ---
 
-## 🌟 Latest Projects  
+## 🌟 Highlight Projects  
 
-Berikut adalah beberapa proyek terbaru saya:  
+---
 
-<table align="center" style="border-collapse: separate; border-spacing: 20px; margin: auto;">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://via.placeholder.com/300x200?text=Screenshot+SigmaTodoList" alt="Sigma TodoList Screenshot" width="100%">
-      <h3>📝 Sigma TodoList</h3>
-      <p>Aplikasi TodoList lengkap: tambah, ceklist, dan hapus task.</p>
-      <a href="https://link-ke-project-sigma-todolist.com"><b>🔗 Demo</b></a> | 
-      <a href="https://github.com/username/sigma-todolist"><b>Repo</b></a>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://via.placeholder.com/300x200?text=Screenshot+ERChat" alt="ERChat Screenshot" width="100%">
-      <h3>🗨️ ERChat</h3>
-      <p>Aplikasi chatting real-time dengan desain responsif.</p>
-      <a href="https://link-ke-project-erchat.com"><b>🔗 Demo</b></a> | 
-      <a href="https://github.com/username/erchat-chatting-app"><b>Repo</b></a>
-    </td>
-  </tr>
-</table>
+### 📝 **Sigma TodoList**  
+Aplikasi TodoList sederhana namun lengkap. Pengguna dapat:  
+- Mendaftar dan login untuk akses personal.  
+- Menambahkan task dan menandai task yang sudah selesai.  
+- Task yang selesai akan dipindahkan ke daftar ceklist.
+- Task yang sudah tidak di gunakan bisa di hapus.  
 
-> Jangan ragu untuk mengeksplorasi proyek saya lainnya di [Profil GitHub](https://github.com/username).  
+🔗 **Demo:** [Lihat Aplikasi](https://sigma-todolist.vercel.app)  
+🔗 **Repo:** [GitHub](https://github.com/riobima222/sigma-todo-list)
+
+![Sigma TodoList Screenshot](https://github.com/riobima222/assets-images/blob/main/Sigma-TodoList.jpg)  
+
+---
+
+### 🗨️ **ERChat - Chatting App**  
+Aplikasi chatting real-time modern dengan fitur:  
+- Login dan register menggunakan Firebase Authentication.  
+- Pesan dikirim dan diterima secara instan tanpa reload.  
+- Desain responsif dengan Tailwind CSS.
+
+🔗 **Demo:** [Lihat Aplikasi](https://erchat-chatting.vercel.app/login)  
+🔗 **Repo:** [GitHub](https://github.com/riobima222/chatting-app)
+
+![ERChat Screenshot](https://github.com/riobima222/assets-images/blob/main/Erchat.jpg)  
+
+
+
+> Jangan ragu untuk mengeksplorasi proyek saya lainnya di [Profil GitHub](https://github.com/riobima222).  
+
 
 ---
 ---
