@@ -33,6 +33,7 @@ Mari terhubung dan diskusikan bagaimana kita bisa bekerja sama!
 <img src="https://github.com/riobima222/assets-images/blob/main/postgresql.png" alt="PostgreSQL" width="50" height="50" />
 
 </div>
+
 ---
 ---
 
@@ -40,7 +41,7 @@ Mari terhubung dan diskusikan bagaimana kita bisa bekerja sama!
 
 Berikut adalah beberapa proyek terbaru saya:  
 
-<table>
+<table align="center" style="border-collapse: separate; border-spacing: 20px; margin: auto;">
   <tr>
     <td align="center" width="50%">
       <img src="https://via.placeholder.com/300x200?text=Screenshot+SigmaTodoList" alt="Sigma TodoList Screenshot" width="100%">
@@ -58,7 +59,6 @@ Berikut adalah beberapa proyek terbaru saya:
     </td>
   </tr>
 </table>
----
 
 > Jangan ragu untuk mengeksplorasi proyek saya lainnya di [Profil GitHub](https://github.com/username).  
 
