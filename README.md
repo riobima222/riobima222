@@ -51,7 +51,7 @@ Aplikasi TodoList sederhana namun lengkap. Pengguna dapat:
 🔗 **Demo:** [Lihat Aplikasi](https://sigma-todolist.vercel.app)  
 🔗 **Repo:** [GitHub](https://github.com/riobima222/sigma-todo-list)
 
-<img src="https://github.com/riobima222/assets-images/blob/main/Sigma-TodoList.jpg" height="300" width="400"/>
+<img src="https://github.com/riobima222/assets-images/blob/main/Sigma-TodoList.jpg" height="300" width="550"/>
 
 ---
 
@@ -64,7 +64,7 @@ Aplikasi chatting real-time modern dengan fitur:
 🔗 **Demo:** [Lihat Aplikasi](https://erchat-chatting.vercel.app/login)  
 🔗 **Repo:** [GitHub](https://github.com/riobima222/chatting-app)
 
-<img src="https://github.com/riobima222/assets-images/blob/main/Erchat.jpg" height="300" width="400"/>
+<img src="https://github.com/riobima222/assets-images/blob/main/Erchat.jpg" height="300" width="550"/>
 
 
 
