@@ -60,7 +60,7 @@ Aplikasi chatting real-time modern dengan fitur:
 - Desain responsif dengan Tailwind CSS.
 
 🔗 **Demo:** [Lihat Aplikasi](https://erchat-chatting.vercel.app/login)  
-🔗 **Repo:** [GitHub](https://github.com/riobima222/chatting-app)
+🔗 **Repo:** [GitHub](https://github.com/riobima222/erchat-app)
 
 <img src="https://i.postimg.cc/wMTGZNjn/Erchat.jpg" style="max-width: 550; height: auto;" alt="Erchat-chatting-app" />
 
